@@ -1,6 +1,6 @@
 # CS49 (Foundations of Computer Programming) Projects
 ## CS49: What is it?
-CS49 was a course offered to high school students (for college credits) by Make School in partnership with Foothill College. During it, I learned concepts such as variables, functions, classes, conditional statements, and more. During the course, I built various projects using JavaScript and the p5.js libary and worked effectively with my peers when completing lab challenges and giving/receiving feedback.
+CS49 was a course offered to high school students (for college credits) by Make School in partnership with Foothill College. During it, I learned concepts such as variables, functions, classes, conditional statements, and more. I built various projects using JavaScript and the p5.js libary and worked effectively with my peers when completing lab challenges and giving/receiving feedback.
 
 ---
 ## Conway's Game of Life
